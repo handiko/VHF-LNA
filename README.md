@@ -7,7 +7,10 @@ VHF Low Noise Amplifier Circuit &amp; PCB using common MMIC. This unit is capabl
 ## PCB (photos)
 * Unpopulated
 ![alt text](https://github.com/handiko/VHF-LNA/blob/master/Pics/PCB_unpopulated.png)
-* Populated
+* Populated. The input port is at near the lower right relay and the output port is at near the lower left relay.
 ![alt text](https://github.com/handiko/VHF-LNA/blob/master/Pics/PCB_populated.png)
+
+## BPF Response
+BPF simulation file (using RFSim99) is included also.
 
 ...
