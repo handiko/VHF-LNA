@@ -1,0 +1,54 @@
+Partlist
+
+Exported from PGA-103+ LNA Mod2.sch at 11/7/2018 9:07 PM
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device               Package                  Library         Sheet
+
+C1       10p            C-EUC1206            C1206                    rcl             1
+C2       1n             C-EUC1206            C1206                    rcl             1
+C3       22p            C-EUC1206            C1206                    rcl             1
+C4       10u            C-EUC1206            C1206                    rcl             1
+C5       22p            C-EUC1206            C1206                    rcl             1
+C6       3p3            C-EUC1206            C1206                    rcl             1
+C7       22p            C-EUC1206            C1206                    rcl             1
+C8       10u            CPOL-EUB/3528-21R    B/3528-21R               rcl             1
+C9       22p            C-EUC1206            C1206                    rcl             1
+C10      10p            C-EUC1206            C1206                    rcl             1
+C11      10n            C-EUC1206            C1206                    rcl             1
+C12      330p           C-EUC1206            C1206                    rcl             1
+C13      1n             C-EUC1206            C1206                    rcl             1
+C14      1n             C-EUC1206            C1206                    rcl             1
+C15      10n            C-EUC1206            C1206                    rcl             1
+C16      100n           C-EUC1206            C1206                    rcl             1
+D1       1N4xxx         1N4148DO35-7         DO35-7                   diode           1
+D2       1N4xxx         1N4148DO35-7         DO35-7                   diode           1
+D3       1N4xxx         1N4148DO35-7         DO35-7                   diode           1
+D4       1N4xxx         1N4148DO35-7         DO35-7                   diode           1
+D5       1N4xxx         1N4148DO35-7         DO35-7                   diode           1
+H1       MOUNT-PAD      MOUNT-PAD-ROUND2.8   2,8-PAD                  holes           1
+H2       MOUNT-PAD      MOUNT-PAD-ROUND2.8   2,8-PAD                  holes           1
+H3       MOUNT-PAD      MOUNT-PAD-ROUND2.8   2,8-PAD                  holes           1
+H4       MOUNT-PAD      MOUNT-PAD-ROUND2.8   2,8-PAD                  holes           1
+IC1      7805DT         7805DT               TO252                    linear          1
+J1                      MTA02-156            1X2MTA                   con-amp         1
+K1       G2RE           G2RE                 G2RE                     relay           1
+K2       G2RE           G2RE                 G2RE                     relay           1
+K3       G2RE           G2RE                 G2RE                     relay           1
+K4       G2RE           G2RE                 G2RE                     relay           1
+L1                      Z28/70CW             Z28/7                    inductor-neosid 1
+L2                      Z28/70CW             Z28/7                    inductor-neosid 1
+L3                      Z28/70CW             Z28/7                    inductor-neosid 1
+L4                      Z28/70CW             Z28/7                    inductor-neosid 1
+R1       90nH           R-US_M1206           M1206                    rcl             1
+R2       90nH           R-US_M1206           M1206                    rcl             1
+R3       1uH            R-US_M1206           M1206                    rcl             1
+R4       150            R-US_M1206           M1206                    rcl             1
+R5       22             R-US_M1206           M1206                    rcl             1
+R6       1uH            R-US_M1206           M1206                    rcl             1
+U$1      PGA-103        PGA-103              DF782                    minicircuits    1
+X1       SMA            SMA-142-0701-851/861 J502-ND-142-0701-851/861 con-coax        1
+X2       SMA            SMA-142-0701-851/861 J502-ND-142-0701-851/861 con-coax        1
