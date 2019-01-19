@@ -1,5 +1,5 @@
 # MMIC VHF Low Noise Amplifier
-VHF Low Noise Amplifier Circuit &amp; PCB using common MMIC. This unit is capable upto 1kW at 2m-band and powered by +12V supply thru separate cable (hi-power bias tee is not implemented). MMIC input is protected by A BPF, therefore due to the BPF insertion loss, the input NF is not extremely good, (1 dB NF approx.). All the Eagle and Gerber files are included.
+VHF Low Noise Amplifier Circuit &amp; PCB using common MMIC. This unit is capable up to 1kW at 2m-band and powered by +12V supply thru separate cable (hi-power bias tee is not implemented). MMIC input is protected by a BPF. Therefore, due to the BPF insertion loss, the input NF is not extremely good, (only 1 dB NF approx.). All the Eagle and Gerber files are included.
 
 ## Schematic
 ![](./LNA_sch.png)
